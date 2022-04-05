@@ -96,7 +96,7 @@ display: block;
 .c1 {
     float: left;
     background-color:yellowgreen;
-    width: 42%;
+    width: 88%;
     height: 50%;
     margin-left: 5%;
  
@@ -142,6 +142,7 @@ margin-top: 3em;
     width: 88%;
     height: 50%;
     margin-left: 10%;
+        
     }
     #descript{
         margin:auto;
